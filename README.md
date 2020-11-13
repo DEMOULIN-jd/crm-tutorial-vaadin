@@ -5,6 +5,7 @@ This repository contains the source code for the [Java Web App development tutor
 * https://vaadin.com/start#demos
 
 *Live demo:* https://crm.demo.vaadin.com
+*Comment from JD
 
 mvn clean package -Pproduction
 
